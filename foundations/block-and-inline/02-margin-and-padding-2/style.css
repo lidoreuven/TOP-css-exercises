@@ -1,6 +1,6 @@
 body {
   background: #eee;
-  font-size: 18px;
+  font-size: 20px;
   font-family: Helvetica, sans-serif;
 }
 
@@ -34,4 +34,6 @@ button {
   border: 1px solid #eee;
   margin: 0px auto;
   display: block;
+  padding: 8px;
+  font-size: 20px;
 }
