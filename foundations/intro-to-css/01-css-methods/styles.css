@@ -3,5 +3,12 @@ div {
     background-color: red;
     color: white;
     font-size: 32px;
-    vertical-align: center;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    background-color: green;
+    color: white;
+    font-size: 18px;
 }
