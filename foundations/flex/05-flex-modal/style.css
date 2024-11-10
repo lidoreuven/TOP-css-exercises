@@ -53,6 +53,12 @@ body {
   font-weight: bold;
 }
 
+/*SOLUTION*/
+.text {
+  margin: 16px 0;
+}
+/*END*/
+
 .close-button {
   background: #eee;
   border-radius: 50%;
