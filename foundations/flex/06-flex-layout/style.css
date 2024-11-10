@@ -8,11 +8,16 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  align-items: center;
 }
 
 img {
   width: 600px;
+}
+
+.header, .footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 button {
