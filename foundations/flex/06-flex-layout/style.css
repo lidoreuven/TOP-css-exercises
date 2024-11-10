@@ -8,6 +8,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+
 }
 
 img {
@@ -18,6 +19,25 @@ img {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  padding: 16px;
+}
+
+.footer {
+  background-color: #EEEFEF;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: hsl(213, 10%, 40%);
 }
 
 button {
